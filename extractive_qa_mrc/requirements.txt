@@ -1,0 +1,8 @@
+torch==1.11.0
+scipy
+sklearn
+transformers
+datasets
+nltk
+tensorboard
+tensorboardX
